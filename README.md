@@ -60,4 +60,8 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 
 [没有flexbox弹性盒子，但我们还有table](https://github.com/CommanderXL/biu-blog/issues/4)
 
+## 其他总结
 
+[移动端H5图片上传的那些坑](https://github.com/CommanderXL/biu-blog/issues/6)
+
+[前端通用国际化解决方案](https://github.com/CommanderXL/biu-blog/issues/14)
