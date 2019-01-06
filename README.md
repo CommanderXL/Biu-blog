@@ -1,3 +1,5 @@
+Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家关注。
+
 ## Vue 系列
 
 [Vue-cli@3.0 插件系统简析](https://github.com/CommanderXL/biu-blog/issues/23)
