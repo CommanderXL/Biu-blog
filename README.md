@@ -65,3 +65,11 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 [移动端H5图片上传的那些坑](https://github.com/CommanderXL/biu-blog/issues/6)
 
 [前端通用国际化解决方案](https://github.com/CommanderXL/biu-blog/issues/14)
+### Code Visualization:
+
+Here is a cool visualization of the code evolution
+
+ [![Watch the video](https://img.youtube.com/vi/Aj4swUCoQKY/0.jpg)](https://www.youtube.com/watch?v=Aj4swUCoQKY)
+
+ [https://www.youtube.com/watch?v=Aj4swUCoQKY](https://www.youtube.com/watch?v=Aj4swUCoQKY)
+
