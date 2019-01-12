@@ -56,6 +56,8 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 
 [基于后编译的国际化解决方案](https://juejin.im/post/5b47148c518825196b01ca3a)
 
+[Webpack hash 生成规则](https://github.com/CommanderXL/Biu-blog/issues/29)
+
 ## CSS
 
 [没有flexbox弹性盒子，但我们还有table](https://github.com/CommanderXL/biu-blog/issues/4)
