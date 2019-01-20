@@ -60,6 +60,8 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 
 [Webpack Ruleset loader过滤器](https://github.com/CommanderXL/Biu-blog/issues/30)
 
+[Webpack Loader 高手进阶(一)](https://github.com/CommanderXL/Biu-blog/issues/31)
+
 ## CSS
 
 [没有flexbox弹性盒子，但我们还有table](https://github.com/CommanderXL/biu-blog/issues/4)
