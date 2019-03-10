@@ -64,7 +64,9 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 
 [Webpack Loader 高手进阶(二)](https://github.com/CommanderXL/Biu-blog/issues/32)
 
-[Webpack Loader 高手进阶(三)](https://github.com/CommanderXL/Biu-blog/issues/32)
+[Webpack Loader 高手进阶(三)](https://github.com/CommanderXL/Biu-blog/issues/33)
+
+[Webpack Chunk 生成策略源码探索](https://github.com/CommanderXL/Biu-blog/issues/34)
 
 ## CSS
 
