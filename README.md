@@ -68,6 +68,10 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 
 [Webpack Chunk 生成策略源码探索](https://github.com/CommanderXL/Biu-blog/issues/34)
 
+## Typescript
+
+[声明文件](https://github.com/CommanderXL/Biu-blog/issues/35)
+
 ## CSS
 
 [没有flexbox弹性盒子，但我们还有table](https://github.com/CommanderXL/biu-blog/issues/4)
