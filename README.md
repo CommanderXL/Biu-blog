@@ -70,6 +70,8 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 
 [Webpack dependencyTemplates 依赖模板](https://github.com/CommanderXL/Biu-blog/issues/37)
 
+[Webpack module 模块系统](https://github.com/CommanderXL/Biu-blog/issues/38)
+
 ## Typescript
 
 [声明文件](https://github.com/CommanderXL/Biu-blog/issues/35)
