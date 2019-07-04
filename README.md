@@ -72,6 +72,8 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 
 [Webpack module 模块系统](https://github.com/CommanderXL/Biu-blog/issues/38)
 
+[Webpack Debugger](https://github.com/CommanderXL/Biu-blog/issues/39)
+
 ## Typescript
 
 [声明文件](https://github.com/CommanderXL/Biu-blog/issues/35)
