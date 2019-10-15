@@ -74,6 +74,8 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 
 [Webpack Debugger](https://github.com/CommanderXL/Biu-blog/issues/39)
 
+[Webpack childCompiler子编译](https://github.com/CommanderXL/Biu-blog/issues/40)
+
 ## Typescript
 
 [声明文件](https://github.com/CommanderXL/Biu-blog/issues/35)
