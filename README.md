@@ -76,6 +76,25 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 
 [Webpack childCompiler子编译](https://github.com/CommanderXL/Biu-blog/issues/40)
 
+## 小程序
+
+### Mpx 小程序框架技术揭秘
+
+[动态入口编译]()
+
+[Render Function]()
+
+[Wxs Module]()
+
+[template/script/style/json 模块文件的生成]()
+
+[响应式系统]()
+
+[性能优化.Part1]
+
+[性能优化.Part2]
+
+
 ## Typescript
 
 [声明文件](https://github.com/CommanderXL/Biu-blog/issues/35)
