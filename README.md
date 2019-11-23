@@ -80,7 +80,7 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 
 ### Mpx 小程序框架技术揭秘
 
-[1. 动态入口编译]()
+[1. 动态入口编译](https://github.com/CommanderXL/Biu-blog/issues/41)
 
 [2. Render Function]()
 
