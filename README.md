@@ -88,14 +88,13 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 
 [4. template/script/style/json 模块文件的生成](https://github.com/CommanderXL/Biu-blog/issues/44)
 
-[5. 响应式系统]()
+[5. 响应式系统](https://github.com/CommanderXL/Biu-blog/issues/45)
 
-[6. 事件系统]()
+[6. 性能优化.Part1](https://github.com/CommanderXL/Biu-blog/issues/46)
 
-[7. 性能优化.Part1]()
+[7. 性能优化.Part2](https://github.com/CommanderXL/Biu-blog/issues/47)
 
-[8. 性能优化.Part2]()
-
+[8. 事件系统]()
 
 ## Typescript
 
