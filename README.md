@@ -82,11 +82,11 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 
 [1. 动态入口编译](https://github.com/CommanderXL/Biu-blog/issues/41)
 
-[2. Render Function]()
+[2. Render Function](https://github.com/CommanderXL/Biu-blog/issues/42)
 
-[3. Wxs Module]()
+[3. Wxs Module](https://github.com/CommanderXL/Biu-blog/issues/43)
 
-[4. template/script/style/json 模块文件的生成]()
+[4. template/script/style/json 模块文件的生成](https://github.com/CommanderXL/Biu-blog/issues/44)
 
 [5. 响应式系统]()
 
