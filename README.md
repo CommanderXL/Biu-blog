@@ -76,6 +76,8 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 
 [Webpack childCompiler子编译](https://github.com/CommanderXL/Biu-blog/issues/40)
 
+[@vue/cli 项目编译重复命中缓存问题解析](https://github.com/CommanderXL/Biu-blog/issues/48)
+
 ## 小程序
 
 ### Mpx 小程序框架技术揭秘
