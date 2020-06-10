@@ -35,6 +35,8 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 
 ## Javascript
 
+[循环依赖](https://github.com/CommanderXL/Biu-blog/issues/49)
+
 [Promise 库 lie.js 源码解读](https://github.com/CommanderXL/biu-blog/issues/26)
 
 [(译)Understanding javascript's 'undefined'](https://github.com/CommanderXL/biu-blog/issues/13)
