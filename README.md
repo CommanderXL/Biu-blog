@@ -2,6 +2,8 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 
 ## Vue 系列
 
+[Vite](https://github.com/CommanderXL/Biu-blog/issues/50)
+
 [Vue-cli@3.0 插件系统简析](https://github.com/CommanderXL/biu-blog/issues/23)
 
 [Vue 2.0 数据更新异常处理机制](https://github.com/CommanderXL/biu-blog/issues/22)
@@ -77,6 +79,8 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 [Webpack Debugger](https://github.com/CommanderXL/Biu-blog/issues/39)
 
 [Webpack childCompiler子编译](https://github.com/CommanderXL/Biu-blog/issues/40)
+
+[Webpack HMR](https://github.com/CommanderXL/Biu-blog/issues/51)
 
 [@vue/cli 项目编译重复命中缓存问题解析](https://github.com/CommanderXL/Biu-blog/issues/48)
 
