@@ -110,6 +110,10 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 
 [类型操作符](https://github.com/CommanderXL/Biu-blog/issues/36)
 
+## Babel
+
+[Babel7](https://github.com/CommanderXL/Biu-blog/issues/52)
+
 ## CSS
 
 [没有flexbox弹性盒子，但我们还有table](https://github.com/CommanderXL/biu-blog/issues/4)
