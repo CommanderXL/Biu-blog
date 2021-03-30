@@ -104,6 +104,10 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 
 [8. 事件系统]()
 
+### Mpx 生态相关
+
+[1. mpx-cli@next 插件化改造](https://github.com/CommanderXL/Biu-blog/issues/53)
+
 ## Typescript
 
 [声明文件](https://github.com/CommanderXL/Biu-blog/issues/35)
