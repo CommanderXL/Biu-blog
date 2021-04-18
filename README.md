@@ -102,7 +102,7 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 
 [7. 性能优化.Part2](https://github.com/CommanderXL/Biu-blog/issues/47)
 
-[8. 事件系统]()
+[8. 事件系统](https://github.com/CommanderXL/Biu-blog/issues/54)
 
 ### Mpx 生态相关
 
