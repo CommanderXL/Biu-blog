@@ -2,6 +2,8 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 
 ## Vue 系列
 
+[Composition Api for Vue2](https://github.com/CommanderXL/Biu-blog/issues/58)
+
 [Vite - HMR](https://github.com/CommanderXL/Biu-blog/issues/50)
 
 [Vue-cli@3.0 插件系统简析](https://github.com/CommanderXL/biu-blog/issues/23)
