@@ -110,6 +110,8 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 
 [9. 跨 web 方案的实现](https://github.com/CommanderXL/Biu-blog/issues/56)
 
+[10. bundle 策略](https://github.com/CommanderXL/Biu-blog/issues/59)
+
 ### Mpx 生态相关
 
 [1. mpx-cli@next 插件化改造](https://github.com/CommanderXL/Biu-blog/issues/53)
