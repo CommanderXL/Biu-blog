@@ -2,6 +2,8 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 
 ## Vue 系列
 
+[Vue3.4 effect-drity-check 机制](https://github.com/CommanderXL/Biu-blog/issues/60)
+
 [Composition Api for Vue2](https://github.com/CommanderXL/Biu-blog/issues/58)
 
 [Vite - HMR](https://github.com/CommanderXL/Biu-blog/issues/50)
@@ -23,8 +25,6 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 [Vue 2.0 的 virtual-dom 实现简析](https://github.com/CommanderXL/biu-blog/issues/15)
 
 [前端国际化之Vue-i18n源码分析](https://github.com/CommanderXL/biu-blog/issues/11)
-
-[Vue3.4 effect-drity-check 机制](https://github.com/CommanderXL/Biu-blog/issues/60)
 
 ## Node.js 
 
