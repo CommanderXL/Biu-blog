@@ -89,6 +89,8 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 
 [Webpack5 持久化缓存](https://github.com/CommanderXL/Biu-blog/issues/55)
 
+[Webpack Resolver](https://github.com/CommanderXL/Biu-blog/issues/63)
+
 ## 小程序
 
 ### Mpx 小程序框架技术揭秘
@@ -115,11 +117,15 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 
 [11. 局部运行时能力增强](https://github.com/CommanderXL/Biu-blog/issues/61)
 
+[12. i18n 能力](https://github.com/CommanderXL/Biu-blog/issues/64)
+
 ### Mpx 生态相关
 
 [1. mpx-cli@next 插件化改造](https://github.com/CommanderXL/Biu-blog/issues/53)
 
 [2. 一次 mpx 对于 web 生态能力复用的探索](https://github.com/CommanderXL/Biu-blog/issues/57)
+
+[3. 小程序跨端组件库 mpx-cube-ui](https://github.com/CommanderXL/Biu-blog/issues/62)
 
 ## Typescript
 
