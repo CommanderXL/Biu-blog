@@ -129,7 +129,9 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 
 ### Mpx2Rn
 
-[1. 透过 ref 的使用看 mpx2rn 组件渲染更新](https://github.com/CommanderXL/Biu-blog/issues/65)
+[1. 透过 ref 的使用看 Mpx2Rn 组件渲染更新](https://github.com/CommanderXL/Biu-blog/issues/65)
+
+[2. Mpx2Rn Ref 能力](https://github.com/CommanderXL/Biu-blog/issues/66)
 
 ## Typescript
 
