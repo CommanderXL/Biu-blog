@@ -127,11 +127,13 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 
 [3. 小程序跨端组件库 mpx-cube-ui](https://github.com/CommanderXL/Biu-blog/issues/62)
 
-### Mpx2Rn
+### Mpx2RN
 
-[1. 透过 ref 的使用看 Mpx2Rn 组件渲染更新](https://github.com/CommanderXL/Biu-blog/issues/65)
+[1. 透过 ref 的使用看 Mpx2RN 组件渲染更新](https://github.com/CommanderXL/Biu-blog/issues/65)
 
-[2. Mpx2Rn Ref 能力](https://github.com/CommanderXL/Biu-blog/issues/66)
+[2. Mpx2RN Ref 能力](https://github.com/CommanderXL/Biu-blog/issues/66)
+
+[3. 跨端一致性&性能优化: Mpx2RN 异步分包](https://github.com/CommanderXL/Biu-blog/issues/67)
 
 ## Typescript
 
