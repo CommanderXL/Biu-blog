@@ -154,3 +154,5 @@ Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家
 [移动端H5图片上传的那些坑](https://github.com/CommanderXL/biu-blog/issues/6)
 
 [前端通用国际化解决方案](https://github.com/CommanderXL/biu-blog/issues/14)
+
+[从一次 CR 谈业务项目中的组件分层与复用](https://github.com/CommanderXL/Biu-blog/issues/68)
