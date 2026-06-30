@@ -1,5 +1,9 @@
 Hi，大家好，这里会记录我平时学习过程中的积累，欢迎大家关注。
 
+## AI 相关
+
+[代码知识图谱：聊聊代码 RAG](https://github.com/CommanderXL/Biu-blog/issues/69)
+
 ## Vue 系列
 
 [Vue3.4 effect-drity-check 机制](https://github.com/CommanderXL/Biu-blog/issues/60)
